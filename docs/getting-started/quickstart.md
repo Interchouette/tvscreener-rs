@@ -8,6 +8,7 @@ Get a first screener response in a few minutes.
 cargo install --path .
 tvscreener --help
 tvscreener scan crypto --limit 5
+tvscreener payload crypto --limit 2     # print request JSON only
 tvscreener-mcp
 ```
 
